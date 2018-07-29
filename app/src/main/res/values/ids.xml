@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="night_mode" type="id">night</item>
+    <item name="Score_1" type="id">score</item>
+    <item name="Score_2" type="id">score</item>
+</resources>
